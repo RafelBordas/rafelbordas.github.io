@@ -4,7 +4,7 @@ email:       rafel [dot] bordas [at] gmail [dot] com
 author:      Rafel Bordas
 description: ""
 baseurl:     ""
-url:         "https://rafelbordas.github.com"
+url:         "https://rafelbordas.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
