@@ -17,6 +17,6 @@ Before moving into the energy industry I was at Oxford University. First for a D
 
 ### Contact
 
-You can send an email to rafel.bordas [at] gmail [dot] com or contact me on [Linked In]{https://www.linkedin.com/in/rafel-bordas/}. A list of my publications can be found on [Google Scholar]{https://scholar.google.co.uk/citations?user=MAV7YRQAAAAJ&hl=en}
+You can send an email to rafel.bordas [at] gmail [dot] com or contact me on [Linked In](https://www.linkedin.com/in/rafel-bordas/). A list of my publications can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=MAV7YRQAAAAJ&hl=en).
 
 
